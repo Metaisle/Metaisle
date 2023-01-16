@@ -58,7 +58,7 @@
 
   <body style="margin: 0">
     <div style="background-color: #f1f1f1; text-align: center; padding: 40px">
-      <img style="border-radius: 20%;" alt="元岛logo" src="./logo.jpg" width="120px" height="120px" />
+      <img style="border-radius: 20%;" alt="元岛logo" src="./logo.JPG" width="120px" height="120px" />
     </div>
     <article
       style="
